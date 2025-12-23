@@ -1,0 +1,15 @@
+{
+  "inputs": [],
+  "servers": {
+    "monkeymcp": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "jamesmontemagno/monkeymcp"
+      ],
+      "env": {}
+    }
+  }
+}
