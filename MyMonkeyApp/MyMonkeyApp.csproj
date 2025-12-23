@@ -11,4 +11,9 @@
     <Content Include=".vscode\mcp.json" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include=".github\copilot-instructions.md" />
+    <None Include=".github\ISSUE_TEMPLATE\implement-monkey-console.md" />
+  </ItemGroup>
+
 </Project>
