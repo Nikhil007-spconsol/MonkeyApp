@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <None Include=".github\copilot-instructions.md" />
+    <None Include=".github\ISSUE_TEMPLATE\enhance-monkey-console.md" />
     <None Include=".github\ISSUE_TEMPLATE\implement-monkey-console.md" />
   </ItemGroup>
 
